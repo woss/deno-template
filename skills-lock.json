@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "deno-expert": {
+      "source": "denoland/skills",
+      "sourceType": "github",
+      "skillPath": "skills/deno-expert/SKILL.md",
+      "computedHash": "076e8159d319521cbe8cf6181c9ce969545fc5f77ee05caee4517b3010583343"
+    },
+    "deno-typescript": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "deno-typescript/SKILL.md",
+      "computedHash": "53eb1146a49f04097769971b6cc817b5c7ee852e6f41860a29bcc15c1774a251"
+    }
+  }
+}
